@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Machine-specific startup. Copy to local.sh and edit; local.sh is not tracked.
+
+xrandr --output HDMI-0 --mode 1920x1080 --rate 100.00
+nvidia-settings --load-config-only
