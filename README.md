@@ -2,9 +2,9 @@
 
 i3 на Arch. Чёрный фон, один зелёный акцент, JetBrainsMono везде.
 
-![рабочий стол](screenshots/desktop.png)
+![рабочий стол](.github/screenshots/desktop.png)
 
-![rofi](screenshots/rofi.png)
+![rofi](.github/screenshots/rofi.png)
 
 ## Что внутри
 
